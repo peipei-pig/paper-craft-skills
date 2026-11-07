@@ -101,6 +101,19 @@ Reads your paper → plans the deck → generates slide images → exports PPTX/
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🔎 paper-html-reviewer
+**Paper explainer HTML → independent review**
+
+Checks claims, equations, figures, and experimental conclusions against the source paper. Also reviews terminology, structure, concision, tone, and shareability, then gives evidence-based, prioritized fixes.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---

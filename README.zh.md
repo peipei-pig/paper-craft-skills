@@ -33,7 +33,7 @@ npx skills add zsyggg/paper-craft-skills
 
 ---
 
-## 三个技能
+## 四个技能
 
 <table>
 <tr>
@@ -94,6 +94,19 @@ npx skills add zsyggg/paper-craft-skills
 | 🎞️ 幻灯片 | 16:9 视觉页面 |
 | 📦 导出 | `.pptx` + `.pdf` |
 | 🛠️ 返修 | 任意页可重生成 |
+
+</td>
+<td width="50%" align="center" valign="top">
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🔎 paper-html-reviewer
+**论文解读 HTML → 独立审校**
+
+对照原论文检查事实、公式、图示和实验结论；同时审查术语解释、结构衔接、冗余表达与分享呈现，并给出有证据的修改建议。
 
 </td>
 <td width="50%" align="center" valign="top">
